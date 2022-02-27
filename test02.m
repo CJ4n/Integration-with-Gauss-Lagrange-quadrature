@@ -1,5 +1,3 @@
-% Author: Jan Cichomksi 313201
-%
 % Script tests how the relative error changes depending on number of
 % subintervals for each variable. Script plots surface showing how the 
 % relative error changes as number of subintervals changes. 
