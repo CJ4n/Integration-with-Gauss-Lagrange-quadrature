@@ -1,5 +1,4 @@
 function print(f,exact,a,b,c,d,n1,m1,n2,m2)
-% Author: Jan Cichomski 313201
 %
 % Help function to print, compute value of integral of function f and
 % print relative error (see: printerror) for two numbers of intervals
