@@ -1,5 +1,4 @@
 function printerror(out,w,n,m)
-% Author: Jan Cichomski 313201
 %
 % Help function to print relative error and number of intervals.
 % (See print.m)
