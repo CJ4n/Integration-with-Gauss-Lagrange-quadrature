@@ -1,5 +1,4 @@
 function [r, error]=MainIntegrateGL(f, s1, s2, n1, n2)
-% Author: Jan Cichomski 313201
 %
 % Function computes double integral of function f(x,y) over area
 % D=(s1xs2) with composite 2-points Gauss-Legendre quadrature with respect
