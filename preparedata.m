@@ -1,5 +1,4 @@
 function [a,b,C,AN,BN,h1,h2]=preparedata(s1,s2,n1,n2)
-% Author: Jan Cichomski 313201
 %
 % Function preparedata prepares data that is required to compute
 % double integral with Gauss-Legendre quadrature%
