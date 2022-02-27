@@ -1,5 +1,3 @@
-% Author: Jan Cichomksi 313201
-%
 % Script tests whether MainIntegrateGL computes exact solutions for
 % polynomials of utmost 2n-1 degree if we use n-point Gauss-Legendre
 % quadrature, relative error should be very close to 0 if polynomial
